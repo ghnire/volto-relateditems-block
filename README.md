@@ -201,3 +201,4 @@ The project is licensed under the MIT license.
 ## Credits and Acknowledgements 🙏
 
 Crafted with care by **Generated using [Cookieplone (0.8.1)](https://github.com/plone/cookieplone) and [cookiecutter-plone (2893d4c)](https://github.com/plone/cookiecutter-plone/commit/2893d4cdf91c59a47c70dffbcc360b180cf3feec) on 2024-11-27 09:30:34.249120**. A special thanks to all contributors and supporters!
+# volto-relateditems-block
