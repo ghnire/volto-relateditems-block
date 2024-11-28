@@ -1393,6 +1393,9 @@ importers:
 
   packages/volto-relateditems-block:
     dependencies:
+      classnames:
+        specifier: 2.2.6
+        version: 2.2.6
       react:
         specifier: 18.2.0
         version: 18.2.0
