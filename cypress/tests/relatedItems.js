@@ -27,7 +27,7 @@ context('Related Items Block', () => {
         // Add related items block
         cy.addNewBlock('related');
         cy.get('#toolbar-save').click();
-        cy.get('.block.relatedItems').should('have.text', 'Mexico');
+        cy.get('.block.relatedItemsBlock').should('have.text', 'Mexico');
       });
     });
   });
